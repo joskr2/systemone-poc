@@ -219,8 +219,6 @@ El detalle de cada conexión (Pi, OpenCode, DSH) está en los informes de `eval/
 │   ├── round3-decision-layer.md
 │   └── e2e-checklist.md
 ├── odd/tasks/                # documento de trabajo del método ODD
-└── docs/
-    └── linkedin-post.md      # versión divulgativa (para compartir)
 ```
 
 ## 9. Límites y siguientes pasos
