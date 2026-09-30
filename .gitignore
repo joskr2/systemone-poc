@@ -1,0 +1,11 @@
+node_modules/
+.vitest/
+.venv*/
+.codegraph/
+dist/
+.env
+.atl/
+.pi/
+.playwright-mcp/
+# Local Pi runtime state
+.atl/
