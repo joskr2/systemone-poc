@@ -243,4 +243,4 @@ se hicieron con carga concurrente.
   el método de trabajo (ODD, skills, memoria).
 - **Jev** es de [TypeSafe](https://typesafe.ai); **Laya** es open source
   ([NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)).
-- Licencia de este repositorio: pendiente de definir.
+- Licencia de este repositorio: **MIT** (ver [`LICENSE`](LICENSE)).
